@@ -1,3 +1,3 @@
 name = "Dharik"
-
-print(name)
+number = "Anwar"
+print(name + number)
