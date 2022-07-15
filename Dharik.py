@@ -1,3 +1,3 @@
 name = "Dharik"
 college = "IIT"
-print(name + " " + college)
+print(name + "+" + college)
